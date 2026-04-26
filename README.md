@@ -1,7 +1,3 @@
-# ml-financial-fraud-detection
-Machine Learning-based financial fraud detection system using classification algorithms to identify fraudulent transactions with high accuracy.
-
-
 # 💳 ML-Based Financial Fraud Detection
 
 This project focuses on detecting fraudulent financial transactions using machine learning techniques. The model is trained on transaction data to identify suspicious patterns and classify transactions as fraudulent or legitimate.
